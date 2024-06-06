@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a1e8f089e81d676408dce820c183d674
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - keyCountText: {instanceID: 0}
+  - objective: {instanceID: 0}
+  - center: {instanceID: 0}
+  - selectedImage: {instanceID: 0}
+  - winSound: {instanceID: 0}
+  - marteauSound: {instanceID: 0}
+  - murSound: {instanceID: 0}
+  - marteauImg: {instanceID: 0}
+  - marteauNb: {instanceID: 0}
+  - wallBreak: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
